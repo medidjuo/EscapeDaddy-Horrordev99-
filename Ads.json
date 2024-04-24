@@ -1,17 +1,17 @@
 {
-         "our_ads1_activation":"true",
+         "our_ads1_activation":"false",
     "our_ads1_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/barryAds3.png",
     "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.startgames.escape.barry.prison.obby.jailbreak",
 
-    "our_ads2_activation":"true",
+    "our_ads2_activation":"false",
     "our_ads2_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/barryAds2.png",
     "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.ObbyPrison.EscapeBarry",
 
-    "our_ads3_activation":"true",
+    "our_ads3_activation":"false",
     "our_ads3_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/barryAds1.png",
     "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com.startgames.escape.barry.prison.obby.jailbreak",
 
-    "our_ads_inter_activation":"true",
+    "our_ads_inter_activation":"false",
     "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/Barry-Interads1.png",
     "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.ObbyPrison.EscapeBarry",
 
@@ -20,13 +20,13 @@
   "admob_interstitial": "",
   "admob_rewarded_video": "",
 
-  "unity_app_id": "5599047",
+  "unity_app_id": "1112223",
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
   "unity_rewarded_video": "Rewarded_Android",
 
-  "appLovin_app_id": "",
-  "appLovin_banner": "00000000000",
-  "appLovin_interstitial": "00000000000",
-  "appLovin_rewarded_video": "00000000000"
+  "appLovin_app_id": "3SatniGF1C6AIhT2W8V7iPaqnB03RK8n783ZKJMrCdzAltrQxklF19RswAIfcUAFlGHHdWq8JIm6XEbCt_xW9i",
+  "appLovin_banner": "ed2a0aedcfe8d111",
+  "appLovin_interstitial": "ba209a1c4fa1cb8d",
+  "appLovin_rewarded_video": "2cfb1f3d3b32ceff"
 }
