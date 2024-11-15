@@ -1,19 +1,19 @@
 {
          "our_ads1_activation":"true",
-    "our_ads1_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/GrannyPolice%20ads1.png",
-    "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.horrordev99.EscapePoliceGrannyPrison",
+    "our_ads1_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/craftAd3.png",
+    "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.Block.Life.Building3Dcraft",
 
     "our_ads2_activation":"true",
-    "our_ads2_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/GrannyPolice%20Ads2.png",
-    "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.horrordev99.EscapePoliceGrannyPrison",
+    "our_ads2_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/craftAd2.png",
+    "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.Block.Life.Building3Dcraft",
 
     "our_ads3_activation":"true",
     "our_ads3_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/GrannyPolice%20Ads3.png",
     "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com.horrordev99.EscapePoliceGrannyPrison",
 
     "our_ads_inter_activation":"true",
-    "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/digital%20prision%20interAd.png",
-    "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.GamesEmpire.EscapeDigitalParkourPrison",
+    "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/CraftAd-interForBarry.png",
+    "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.Block.Life.Building3Dcraft",
 
   "admob_app_id": "",
   "admob_banner": "",
